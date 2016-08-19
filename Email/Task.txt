@@ -1,0 +1,9 @@
+Create html mailer template which looks similar to the attached html page
+
+Details
+
+* Convert the attached html page to an html mailer
+* Viewable on mobile email + desktop client
+* Accordians do not need to expand/collapse. They can all be 'expanded' in the mailer template
+
+Let me know if you have any queries
